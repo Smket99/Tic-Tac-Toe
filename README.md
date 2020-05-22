@@ -1,9 +1,14 @@
-# Tic-Tac-Toe React App 
+# Tic-Tac-Toe React App with Dark Mode
 ## Deployed App on - https://smket99.github.io/tic-tac-toe/
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ### `npm start`
 
@@ -15,8 +20,3 @@ Renders the React App with Express server
 
 ### `npm run hello`
 Simple Hello World Express App
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
