@@ -15,7 +15,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `np run server`
+## Before running the following sccripts run `npm run build`
+### `npm run server`
 Renders the React App with Express server
 
 ### `npm run hello`
